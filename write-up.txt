@@ -1,0 +1,6 @@
+Pertanyaan 1 : tidak error
+Pertanyaan 2 : terdapat Bad Request error, hal ini terjadi karena tidak adanya parameter "amount" pada url yang diberikan penanya
+Pertanyaan 3 : Iya
+Pertanyaan 4 : tedapat Internal Server Error, hal ini terjadi karena data yang ingin kita view tidak ada.
+Pertanyaan 5 : Iya
+Pertanyaan 6 : iya
